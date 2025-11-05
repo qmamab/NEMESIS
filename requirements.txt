@@ -1,0 +1,22 @@
+# Core deep learning
+torch>=1.10.0
+torchvision>=0.11.0
+
+# Scientific & array computing
+numpy>=1.20.0
+
+# Image I/O and preprocessing
+Pillow>=8.0.0
+opencv-python>=4.5.0  # Optional but useful for advanced image handling
+
+# Visualization
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Utilities
+tqdm>=4.60.0          # Progress bars
+scikit-learn>=1.0.0   # For metrics (e.g., accuracy, classification_report)
+typing-extensions>=4.0.0  # For Python <3.9 compatibility
+
+# Logging & reproducibility (optional but recommended for papers)
+tensorboard>=2.5.0

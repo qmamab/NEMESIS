@@ -1,0 +1,41 @@
+Copyright (c) 2025 Qamar Muneer Akbar. All rights reserved.
+
+Permission is hereby granted, subject to the conditions and restrictions set forth below, to use, copy, modify, and distribute this software and associated documentation files (the "Software") **for non-commercial academic research purposes only**.
+
+CONDITIONS
+
+1. Academic-Use Only
+
+   * The Software may only be used, modified, or distributed for non-commercial academic research, teaching, or evaluation.
+   * Any commercial use, redistribution, integration into commercial products, services, or systems, or use that materially benefits a commercial entity is expressly prohibited without the prior written permission of the copyright holder.
+
+2. Retain Notices
+
+   * The above copyright notice, this license text, and the project header (if present) must be retained in full in any copy, modification, or substantial portion of the Software distributed or published.
+
+3. Responsible Disclosure and Authorization
+
+   * The Software is intended for authorized, ethical research and evaluation. Users must obtain explicit authorization before testing models, systems, or services that they do not own.
+   * Any public disclosure of vulnerabilities, attack results, or adversarial examples derived from use of the Software must follow responsible disclosure practices and applicable institutional or legal requirements.
+
+4. No Export/Transfer to Restricted Parties
+
+   * The user must comply with all applicable export control, sanctions, and local laws when using, transferring, or distributing the Software.
+
+DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. THE COPYRIGHT HOLDER MAKES NO REPRESENTATIONS OR WARRANTIES THAT THE SOFTWARE IS SUITABLE FOR ANY PARTICULAR PURPOSE.
+
+LIMITATION OF LIABILITY
+IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+TERMINATION
+This license is effective until terminated. It will terminate automatically without notice from the copyright holder if you fail to comply with any provision herein. Upon termination you must cease all use of the Software and destroy any copies in your possession.
+
+GOVERNING LAW
+This license shall be governed by and construed in accordance with the laws of the jurisdiction of the copyright holder, without regard to conflict of law principles. Nothing in this license shall be interpreted to limit any rights the user may have under applicable mandatory consumer protection laws.
+
+CONTACT
+For permissions beyond the scope of this license, or to request explicit commercial licensing, contact:
+Qamar Muneer Akbar
+Email: [qamar@ftiuae.com](mailto:qamar@ftiuae.com)
+GitHub: [https://github.com/qmamab](https://github.com/qmamab)
