@@ -114,14 +114,6 @@ Notes:
 
 ---
 
-## Reproducibility checklist
-
-* Fix random seeds for PyTorch (`torch.manual_seed`) and NumPy.
-* Log environment details: PyTorch version, CUDA driver, GPU model, OS.
-* Save and publish the configuration (JSON/YAML) of hyperparameters used for experiments.
-* Provide a small reproducible script that runs one end-to-end example on a known model/dataset.
-
----
 
 ## Responsible use, license and disclaimer
 
@@ -137,11 +129,13 @@ This release is intended for academic research and authorized security evaluatio
 
 ---
 
-## Suggested repository contents
+## Repository contents
 
 ```
 README.md               # this file
 nemesis.py              # attack method implementation (NEMESIS class)
+NEMESIS-V.PY            # attack method specialized for VLLM's
+NEMESIS-CNN.PY            # attack method specialized for CNN's 
 LICENSE.txt             # full license and academic-use terms
 CITATION.bib            # bibliographic entry for the method
 ```
