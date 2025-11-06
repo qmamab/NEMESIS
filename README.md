@@ -5,7 +5,7 @@
 
 ## Abstract
 
-NEMESIS is a research-grade targeted adversarial attack method for evaluating neural network robustness. It combines defense-aware gradient simulation, adaptive step scheduling, momentum, and joint L∞/L2 projection to produce minimal, high-transfer perturbations. NEMESIS is provided for academic and authorized security evaluation only.
+NEMESIS is a research-grade targeted adversarial attack method for evaluating neural network robustness. It combines defense-aware gradient simulation, adaptive step scheduling, momentum, and joint L∞/L2 projection to produce minimal, high-transfer perturbations. NEMESIS is provided for academic and authorized security evaluation only. Two specialized attack methods[NEMESIS-V.py, NEMESIS-CNN.py] and one general [NEMESIS.py]. The general attack method can be used for both VLLM's & CNN's, NEMESIS-V is used only for VLLMS and NEMESIS-CNN.py is used only for CNN'S. Please note that VLLM's method is still a work-in-progress as there have been issues with the token inversion. 
 
 ---
 
